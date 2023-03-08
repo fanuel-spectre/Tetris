@@ -205,7 +205,7 @@ namespace Tetris
                 default:
                     return;
 
-                    //milla
+                    //only for educational purposes
             }
 
             Draw(gameState);
